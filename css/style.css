@@ -44,3 +44,12 @@ body {
 	background: white;
 	padding: 1em;
 }
+	
+#post #footer {
+	background: #777;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	padding: 1em;
+	font-weight: bold;
+}
