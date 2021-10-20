@@ -1,5 +1,7 @@
-Hola esta es la version de Jonny Est.
+Hola esta es la version de Jonny EstupiÃ±an.
 
-Tengo 22 años encontre trabajo ya. 
+Haciendo una recreacion del curso visto en Platzi sobre Git y GitHub.
+ 
+Estudiante de ing. de sistemas reforzando los conocimientos en Git y GitHub.
 
-Estudiante de ing. de sistemas reforzando git y github.
+Master 1
